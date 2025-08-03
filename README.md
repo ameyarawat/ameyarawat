@@ -1,4 +1,23 @@
+# 💫 Hi 👋, I'm Ameya Rawat
+**A Cybersecurity student
+I am a Cybersecurity student with little bit of Tool Experience and Passionate about offensive and defensive security techniques.
 
+My experience includes working with tools such as Burp Suite, Wireshark, Metasploit, John the Ripper, and Nmap and many more, I take pleasure working with Linux OS especially Kali.
+
+At the moment, I am focusing on network security privilege escalation, and vulnerability assessment and Red Teaming.
+
+My goal is to become a Ethical Hacker, and I am seeking internships and mentorships in this domain.
+
+
+- 🌍 **I'm from** India
+- 📫 **You can contact me at:** ameyarawat2515@gmail.com
+- 🔭 **I’m currently working on:** Improving my skills
+- 🤝 **I'm open to collaborating on** Projects
+- 🌱 **I’m currently learning:** Bug Hunting
+- ⚡ **Fun fact:** always ready to work over myself and improve my skills
+
+Email Me 👉 ✉️ **ameyarawat2515@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ameyarawat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameyarawat1525) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameya-rawat-9b0303333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OggyoffSec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameyarawat2515@gmail.com) 
 

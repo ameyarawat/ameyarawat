@@ -17,7 +17,7 @@ My goal is to become a Ethical Hacker, and I am seeking internships and mentorsh
 - 🌱 **I’m currently learning:** Bug Hunting
 - ⚡ **Fun fact:** always ready to work over myself and improve my skills
 
-Email Me 👉 ✉️ **ameyarawat2515@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ameyarawat2515@gmail.com** For Project/Internship or Anything Else. 😊😊
 - 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ameyarawat) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ameyarawat1525) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameya-rawat-9b0303333) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OggyoffSec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameyarawat2515@gmail.com) 
